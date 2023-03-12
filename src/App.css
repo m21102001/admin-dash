@@ -1,0 +1,14 @@
+.landing{
+    justify-content: center;
+    margin: 10px;
+}
+.container{
+display: flex;
+margin-top: 10px;
+}
+.otherPage{
+    flex: 5;
+}
+/* .homePage{
+    flex: 5;
+} */

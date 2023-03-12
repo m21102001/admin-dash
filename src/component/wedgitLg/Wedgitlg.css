@@ -1,0 +1,9 @@
+.wedgitlg{
+    flex: 4;
+    box-shadow: rgb(0 0 0 / 19%) -1px 3px 8px;
+}
+.lastTransaction{
+    font-weight: 600;
+    font-size: 27px;
+    padding: 14px;
+}

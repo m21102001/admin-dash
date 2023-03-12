@@ -1,0 +1,60 @@
+.Wedgitsm {
+    flex: 2;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.widgitSmTiatl {
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.widgitSmList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.widgitSmListItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 18px 0;
+}
+
+.widgitSmImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.widgetSmUser {
+    display: flex;
+    flex-direction: column;
+}
+
+.widgetSmUsername {
+    font-weight: 600px;
+}
+
+.widgetSmUserTital {
+    font-weight: 300;
+}
+
+.widgitSmButton {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    border: none;
+    background-color: #eeeef7;
+    color: #555;
+    cursor: pointer;
+}
+
+.widgitSmButtonIcon {
+    font-size: 16px;
+    margin-right: 5px;
+}

@@ -1,0 +1,17 @@
+.home{
+    flex: 5;
+}
+.homewedgit{
+    display: flex;
+    margin: 20px;
+    background-color:rgb(255, 255, 255);
+}
+.wedgitsm{
+    flex: 2;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    margin-right: 20px;
+}
+/* .wedgitlg{
+    flex: 4;
+} */
