@@ -33,7 +33,7 @@ const UserList = () => {
       // if (
         // !confirm(`Are you sure you want to delete ${row.getValue('firstName')}`)
       // )
-       {
+      {
         return;
       }
       //send api delete request here, then refetch or update local table data for re-render
